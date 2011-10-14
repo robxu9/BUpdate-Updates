@@ -1,0 +1,14 @@
+BUpdate 0.5
+
+Forked from BukkitUpdater 0.2.
+
+Truthfully, why would I make a repository called Updates?
+The old script used perl, and it parsed the webpage for latest updates. Especially with the naming of the threads, it's a bit cumbersome and annoying because there is no way to make changes to parsing.
+
+Now that Bukkit is phasing out that forum, it gets a bit annoying. I was hoping to use Bukkit's plugins.bukkit.org, but that doesn't seem to have any API that is usable. So, for now, we have to do it the old fashioned way - updating manually.
+
+With this repository, I can allow every file to be named something; then that file will contain the version and the download link. BUpdate will be able to do its work from there.
+
+*If you're going to complain about outdated files, get off your ass and please fork/merge an updated one.* I don't have all the time in the world to listen to complaining about this.
+
+*How will I detect which ones are supported and which ones are not?* Well, the files that are maintained are supported, and those that are updated only every so often aren't. Simple. If you want to help maintain this, I'll add you so it becomes supported.
