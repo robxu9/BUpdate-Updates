@@ -12,3 +12,6 @@ With this repository, I can allow every file to be named something; then that fi
 *If you're going to complain about outdated files, get off your ass and please fork/merge an updated one.* I don't have all the time in the world to listen to complaining about this.
 
 *How will I detect which ones are supported and which ones are not?* Well, the files that are maintained are supported, and those that are updated only every so often aren't. Simple. If you want to help maintain this, I'll add you so it becomes supported.
+
+*What if a plugin is named strangely, like iConomy or DirectBank?*
+That's fine, because BUpdate will rename all jarfiles to NAME.jar format.

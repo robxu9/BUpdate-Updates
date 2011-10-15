@@ -1,0 +1,7 @@
+- name: Train Carts
+- version: 1.40
+- download: "https://github.com/downloads/bergerkiller/TrainCarts/TrainCarts.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:
