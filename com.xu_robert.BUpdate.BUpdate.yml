@@ -1,0 +1,7 @@
+- name: BUpdate
+- version: 0.5
+- download: "http://ubuntuone.com/5vgaUt1mzPJaUa1Jrs1LI1"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:
