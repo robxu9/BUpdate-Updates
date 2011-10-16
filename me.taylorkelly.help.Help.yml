@@ -1,7 +1,7 @@
-- name: Help
-- version: 0.2.4.1
-- download: "https://github.com/downloads/jascotty2/Help/Help.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: Help
+version: 0.2.4.1
+download: "https://github.com/downloads/jascotty2/Help/Help.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

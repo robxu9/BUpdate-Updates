@@ -1,7 +1,7 @@
-- name: BetterShop
-- version: 2.05
-- download: "https://github.com/downloads/BetterShop/BetterShop/BetterShop.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: BetterShop
+version: 2.05
+download: "https://github.com/downloads/BetterShop/BetterShop/BetterShop.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

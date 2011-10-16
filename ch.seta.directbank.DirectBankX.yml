@@ -1,7 +1,7 @@
-- name: DirectBankX
-- version: 0.9.5
-- download: "http://seta-bukkit.googlecode.com/files/DirectBank_9.5.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: DirectBankX
+version: 0.9.5
+download: "http://seta-bukkit.googlecode.com/files/DirectBank_9.5.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

@@ -1,7 +1,7 @@
-- name: PermissionsBukkit
-- version: 1.2
-- download: "http://dev.bukkit.org/media/files/538/85/PermissionsBukkit-1.2.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: PermissionsBukkit
+version: 1.2
+download: "http://dev.bukkit.org/media/files/538/85/PermissionsBukkit-1.2.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

@@ -1,7 +1,7 @@
-- name: PlgDisableCmd
-- version: 1.3
-- download: "http://plague.cz/minecraft_plugins/PlgDisableCmd.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: PlgDisableCmd
+version: 1.3
+download: "http://plague.cz/minecraft_plugins/PlgDisableCmd.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

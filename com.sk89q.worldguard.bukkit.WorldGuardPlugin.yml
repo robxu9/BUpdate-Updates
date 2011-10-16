@@ -1,7 +1,7 @@
-- name: WorldGuard
-- version: 5.3
-- download: "http://ubuntuone.com/2Z88Ikr17XTyQksZkrwIT5"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: WorldGuard
+version: 5.3
+download: "http://ubuntuone.com/2Z88Ikr17XTyQksZkrwIT5"
+supported: true
+maintained: true
+requires:
+extraversions:

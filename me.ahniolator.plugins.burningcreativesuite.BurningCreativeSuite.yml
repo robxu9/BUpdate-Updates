@@ -1,7 +1,7 @@
-- name: BurningCreativeSuite
-- version: 1.6
-- download: "http://dev.bukkit.org/media/files/546/935/BurningCreativeSuite.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: BurningCreativeSuite
+version: 1.6
+download: "http://dev.bukkit.org/media/files/546/935/BurningCreativeSuite.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

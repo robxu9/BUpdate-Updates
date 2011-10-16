@@ -1,7 +1,7 @@
-- name: ScizzrHome
-- version: 1.5.1
-- download: "http://dl.dropbox.com/u/35594832/plugins/ScizzrHome/ScizzrHome.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: ScizzrHome
+version: 1.5.1
+download: "http://dl.dropbox.com/u/35594832/plugins/ScizzrHome/ScizzrHome.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

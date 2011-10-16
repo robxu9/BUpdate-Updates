@@ -1,7 +1,7 @@
-- name: CFBanner
-- version: 1.9.2
-- download: "http://bit.ly/njcaqz"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: CFBanner
+version: 1.9.2
+download: "http://bit.ly/njcaqz"
+supported: true
+maintained: true
+requires:
+extraversions:

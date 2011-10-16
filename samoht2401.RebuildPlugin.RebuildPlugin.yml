@@ -1,7 +1,7 @@
-- name: RebuildPlugin
-- version: 0.7
-- download: "http://dev.bukkit.org/media/files/546/418/RebuildPlugin.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: RebuildPlugin
+version: 0.7
+download: "http://dev.bukkit.org/media/files/546/418/RebuildPlugin.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

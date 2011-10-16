@@ -1,7 +1,7 @@
-- name: SpoutEssentials
-- version: 3.7.4
-- download: "http://bit.ly/SpoutEssentials"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: SpoutEssentials
+version: 3.7.4
+download: "http://bit.ly/SpoutEssentials"
+supported: true
+maintained: true
+requires:
+extraversions:

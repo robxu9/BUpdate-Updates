@@ -1,7 +1,7 @@
-- name: CouponCodes
-- version: 1.5.3
-- download: "http://www.craftmod.net/files/mods/bukkit/plugins/LaLa/CouponCode/Latest/CouponCodes.jar"
-- supported: false
-- maintained: true
-- requires:
-- extraversions:
+name: CouponCodes
+version: 1.5.3
+download: "http://www.craftmod.net/files/mods/bukkit/plugins/LaLa/CouponCode/Latest/CouponCodes.jar"
+supported: false
+maintained: true
+requires:
+extraversions:

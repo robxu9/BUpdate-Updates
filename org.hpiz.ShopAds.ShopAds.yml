@@ -1,7 +1,7 @@
-- name: ShopAds
-- version: 1.67
-- download: "http://dev.bukkit.org/media/files/540/117/ShopAds.jar"
-- supported: true
-- maintained: false
-- requires:
-- extraversions:
+name: ShopAds
+version: 1.67
+download: "http://dev.bukkit.org/media/files/540/117/ShopAds.jar"
+supported: true
+maintained: false
+requires:
+extraversions:

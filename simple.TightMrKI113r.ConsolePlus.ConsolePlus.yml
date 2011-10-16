@@ -1,7 +1,7 @@
-- name: ConsolePlus
-- version: 1.3
-- download: "http://dev.bukkit.org/media/files/537/942/Console_.jar"
-- supported: false
-- maintained: false
-- requires:
-- extraversions:
+name: ConsolePlus
+version: 1.3
+download: "http://dev.bukkit.org/media/files/537/942/Console_.jar"
+supported: false
+maintained: false
+requires:
+extraversions:

@@ -1,7 +1,7 @@
-- name: ChannelChat
-- version: 0.3
-- download: "http://dev.bukkit.org/media/files/545/844/ChannelChat.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: ChannelChat
+version: 0.3
+download: "http://dev.bukkit.org/media/files/545/844/ChannelChat.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

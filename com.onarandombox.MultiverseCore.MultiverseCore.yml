@@ -1,7 +1,7 @@
-- name: Multiverse-Core
-- version: 2.0-b279
-- download: "http://dev.bukkit.org/media/files/545/402/Multiverse-Core.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: Multiverse-Core
+version: 2.0-b279
+download: "http://dev.bukkit.org/media/files/545/402/Multiverse-Core.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

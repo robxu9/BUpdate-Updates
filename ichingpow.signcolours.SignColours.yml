@@ -1,7 +1,7 @@
-- name: SignColours
-- version: 1.0
-- download: "http://dev.bukkit.org/media/files/538/306/SignColours.jar"
-- supported: true
-- maintained: false
-- requires:
-- extraversions:
+name: SignColours
+version: 1.0
+download: "http://dev.bukkit.org/media/files/538/306/SignColours.jar"
+supported: true
+maintained: false
+requires:
+extraversions:

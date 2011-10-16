@@ -1,7 +1,7 @@
-- name: VoxelSniper
-- version: 5.019
-- download: "http://dl.dropbox.com/u/13784935/VoxelSniper/5.019/VoxelSniper.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: VoxelSniper
+version: 5.019
+download: "http://dl.dropbox.com/u/13784935/VoxelSniper/5.019/VoxelSniper.jar"
+supported: true
+maintained: true
+requires:
+extraversions:

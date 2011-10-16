@@ -1,7 +1,7 @@
-- name: SuperpermsBridge
-- version: 1.2
-- download: "http://dev.bukkit.org/media/files/538/89/SuperpermsBridge-1.2.jar"
-- supported: true
-- maintained: true
-- requires:
-- extraversions:
+name: SuperpermsBridge
+version: 1.2
+download: "http://dev.bukkit.org/media/files/538/89/SuperpermsBridge-1.2.jar"
+supported: true
+maintained: true
+requires:
+extraversions:
