@@ -1,0 +1,7 @@
+- name: OddItem
+- version: 0.8
+- download: "http://bukkit.somethingodd.info/files/OddItem.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

@@ -1,0 +1,7 @@
+- name: Dynmap
+- version: 0.23
+- download: "http://ubuntuone.com/67JP490y7dynxmuttcmFAI"
+- supported: false
+- maintained: true
+- requires:
+- extraversions:

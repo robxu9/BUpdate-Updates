@@ -1,0 +1,7 @@
+- name: iConomy5
+- version: 5.0
+- download: "http://ubuntuone.com/1dPq4T50KD4m00kqxKIIfT"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

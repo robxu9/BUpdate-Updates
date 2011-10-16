@@ -1,0 +1,7 @@
+- name: xAuth
+- version: 2.0b4.3
+- download: "http://ubuntuone.com/1b5VU21STpkaJe3p5GJNiF"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

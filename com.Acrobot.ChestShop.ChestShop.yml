@@ -1,0 +1,7 @@
+- name: ChestShop
+- version: 3.24
+- download: "http://ubuntuone.com/5Ja9ZuAG7yiXe5LpdoO3SH"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

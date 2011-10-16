@@ -1,0 +1,7 @@
+- name: MobDisguise
+- version: 1.64
+- download: "http://dev.bukkit.org/media/files/546/584/MobDisguise.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

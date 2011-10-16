@@ -1,0 +1,7 @@
+- name: CommandBook
+- version: 1.6
+- download: "http://ubuntuone.com/62Ur7IxzMtBHkNm7BIoxHR"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

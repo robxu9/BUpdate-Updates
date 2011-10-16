@@ -4,7 +4,7 @@
 - supported: true
 - maintained: true
 - requires:
-    - name: register
+    - main: com.nijikokun.register.Register
       version: 1.5
 - extraversions:
     - version: 0.9

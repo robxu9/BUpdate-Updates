@@ -1,0 +1,7 @@
+- name: MoneyDrop
+- version: 1.4
+- download: "http://dl.dropbox.com/u/11950680/MoneyDrop/MoneyDrop.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

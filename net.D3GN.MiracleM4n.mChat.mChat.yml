@@ -1,0 +1,7 @@
+- name: mChat
+- version: b59
+- download: "http://dev.bukkit.org/media/files/547/455/mChat-DEV.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

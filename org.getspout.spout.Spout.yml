@@ -1,0 +1,7 @@
+- name: Spout
+- version: 1.0.6.449
+- download: "http://spout.in/plugin"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

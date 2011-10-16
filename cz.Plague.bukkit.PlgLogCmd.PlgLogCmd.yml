@@ -1,0 +1,7 @@
+- name: PlgLogCmd
+- version: 1.0
+- download: "http://plague.cz/minecraft_plugins/PlgLogCmd.jar"
+- supported: false
+- maintained: true
+- requires:
+- extraversions:

@@ -1,0 +1,7 @@
+- name: BookWorm
+- version: 1.7
+- download: "http://dev.bukkit.org/media/files/543/909/BookWorm.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

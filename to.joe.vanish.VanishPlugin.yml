@@ -1,0 +1,7 @@
+- name: VanishNoPacket
+- version: 1.6.9.7
+- download: "http://dev.bukkit.org/media/files/547/63/VanishNoPacket.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

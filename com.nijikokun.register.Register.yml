@@ -1,0 +1,7 @@
+- name: Register
+- version: 1.5
+- download: "http://mirror.nexua.org/Register/latest/stable/Register.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

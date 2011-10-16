@@ -1,0 +1,7 @@
+- name: ConsoleFilter
+- version: 1.0
+- download: "http://ubuntuone.com/18aAVHMO7UbvpPCRuKwTLD"
+- supported: false
+- maintained: true
+- requires:
+- extraversions:

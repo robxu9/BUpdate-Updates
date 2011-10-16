@@ -1,0 +1,7 @@
+- name: SpleefExtreme
+- version: 0.3
+- download: "http://dev.bukkit.org/media/files/546/137/SpleefExtreme.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

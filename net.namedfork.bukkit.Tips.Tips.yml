@@ -1,0 +1,7 @@
+- name: Tips
+- version: 1.0.2
+- download: "https://github.com/downloads/zydeco/Tips/Tips.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

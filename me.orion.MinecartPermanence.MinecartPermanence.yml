@@ -1,0 +1,7 @@
+- name: MinecartPermanence
+- version: 1.0.0
+- download: "https://github.com/orion304/MinecartPermanence/raw/master/MinecartPermanence.jar"
+- supported: false
+- maintained: true
+- requires:
+- extraversions:

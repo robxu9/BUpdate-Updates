@@ -1,0 +1,7 @@
+- name: iConomy6
+- version: 6.0.7b
+- download: "http://mirror.nexua.org/iConomy/Stable%20Build/iConomy.jar"
+- supported: false
+- maintained: true
+- requires:
+- extraversions:

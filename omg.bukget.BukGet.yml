@@ -1,0 +1,7 @@
+- name: BukGet
+- version: 0.7
+- download: "http://pkg.nexua.org/BukGet/0.7/bukget.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

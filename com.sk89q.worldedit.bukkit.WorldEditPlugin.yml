@@ -1,0 +1,7 @@
+- name: WorldEdit
+- version: 4.7
+- download: "http://ubuntuone.com/2FRac8tsSZFWHsPHdIOtGO"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

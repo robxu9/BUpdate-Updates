@@ -20,3 +20,19 @@ That's fine, because BUpdate will rename all jarfiles to NAME.jar format.
 
 *What's missing right now?*
 Um... dependencies and extraversions aren't working atm.
+
+Explaination of the template:
+
+- name: template # NAME OF THE PLUGIN (not really used >>;)
+- version: 1.0 # LATEST VERSIONS
+- download: "http://www.example.com" # DIRECT LINK TO JAR (throw it up on dropbox if you have to!)
+- supported: true # IF SUPPORTED, IT WILL TELL USER THAT THIS IS A SUPPORTED PLUGIN
+- maintained: true # IF MAINTAINED, IT WILL SHOW UP TO USER THAT THIS IS AN UNMAINTAINED PLUGIN FILE AND IS PROBABLY NOT RIGHT
+- requires: # requires for this software (NOT USED YET)
+    - name: register
+      version: -1 # USE -1 FOR ALL VERSIONS
+- extraversions: # other versions that can be installed (NOT USED YET)
+    - version: 0.9
+      download: "http://www.example.org"
+    - version: 0.1
+      download: "http://www.example.net"

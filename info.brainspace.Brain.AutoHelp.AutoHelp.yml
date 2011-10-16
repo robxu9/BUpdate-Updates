@@ -1,0 +1,9 @@
+- name: AutoHelp
+- version: 0.2
+- download: "http://www.brainspace.info/minecraft/autohelp/AutoHelp_0.2-cb798-help2.4.1.jar"
+- supported: true
+- maintained: true
+- requires:
+    - name: Help
+      version: -1
+- extraversions:

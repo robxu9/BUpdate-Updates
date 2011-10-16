@@ -1,0 +1,7 @@
+- name: LogBlock
+- version: 1.32
+- download: "http://diddiz.insane-architects.net:8080/job/LogBlock/42/artifact/LogBlock.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:

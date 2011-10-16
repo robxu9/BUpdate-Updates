@@ -1,0 +1,7 @@
+- name: LWC
+- version: 3.53
+- download: "http://griefcraft.com/bukkit/lwc/release/LWC.jar"
+- supported: true
+- maintained: true
+- requires:
+- extraversions:
