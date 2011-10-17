@@ -4,6 +4,4 @@ download: "http://www.brainspace.info/minecraft/autohelp/AutoHelp_0.2-cb798-help
 supported: true
 maintained: true
 requires:
-    name: Help
-      version: -1
 extraversions:
