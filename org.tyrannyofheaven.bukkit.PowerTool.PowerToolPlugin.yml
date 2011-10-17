@@ -1,0 +1,8 @@
+name: Powertool
+version: 0.9.1
+download: "http://dev.bukkit.org/media/files/546/168/PowerTool-0.9.1.jar"
+supported: true
+maintained: true
+requires:
+extraversions:
+
