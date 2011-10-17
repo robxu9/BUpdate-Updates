@@ -1,6 +1,6 @@
 name: mChat
-version: 1.8.5
-download: "http://dev.bukkit.org/media/files/547/455/mChat-DEV.jar"
+version: 1.7.12
+download: "http://dev.bukkit.org/media/files/543/812/mChat.jar"
 supported: true
 maintained: true
 requires:
