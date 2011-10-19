@@ -6,6 +6,7 @@ Truthfully, why would I make a repository called Updates?
 The old script used perl, and it parsed the webpage for latest updates. Especially with the naming of the threads, it's a bit cumbersome and annoying because there is no way to make changes to parsing.
 
 Now that Bukkit is phasing out that forum, it gets a bit annoying. I was hoping to use Bukkit's plugins.bukkit.org, but that doesn't seem to have any API that is usable. So, for now, we have to do it the old fashioned way - updating manually.
+(If BukkitDev has an API I can use, PLEASEEE let this tool use it!)
 
 With this repository, I can allow every file to be named something; then that file will contain the version and the download link. BUpdate will be able to do its work from there.
 
@@ -26,11 +27,11 @@ Explaination of the template:
 - name: template # NAME OF THE PLUGIN (not really used >>;)
 - version: 1.0 # LATEST VERSIONS
 - download: "http://www.example.com" # DIRECT LINK TO JAR (throw it up on dropbox if you have to!)
-- supported: true # IF SUPPORTED, IT WILL TELL USER THAT THIS IS A SUPPORTED PLUGIN
-- maintained: true # IF MAINTAINED, IT WILL SHOW UP TO USER THAT THIS IS AN UNMAINTAINED PLUGIN FILE AND IS PROBABLY NOT RIGHT
-- requires: # requires for this software (NOT USED YET)
-    - name: register
-      version: -1 # USE -1 FOR ALL VERSIONS
+- supported: true # true if the plugin file is actively maintained 
+- maintained: true # true if the plugin is maintained upstream
+- requires: # requires for this software (NOT USED YET) - May just read from plugin.yml
+    - main: com.xu_robert.template # main class for this software.
+      version: all # use all for all versions, because using a negative number will cause the plugin to crash.
 - extraversions: # other versions that can be installed (NOT USED YET)
     - version: 0.9
       download: "http://www.example.org"
