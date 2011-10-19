@@ -4,8 +4,7 @@ download: "http://www.example.com"
 supported: true
 maintained: true
 requires:
-    main: com.nijikokun.register.Register
-      version: 1.5
+    - {com.nijikokun.register.Register,1.5}
 extraversions:
     version: 0.9
       download: "http://www.example.org"
