@@ -1,9 +1,6 @@
 name: template
-version: 1.0
-download: "http://www.example.com"
-rb: 1240
-supported: true
-maintained: true
-extrarbbuilds:
+download:
     1185: {0.2,"http://www.example.net"}
     1060: {0.1,"http://www.example.org"}
+supported: true
+maintained: true
