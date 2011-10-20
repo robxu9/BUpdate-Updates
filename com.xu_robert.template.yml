@@ -1,7 +1,14 @@
 #
 # update file for package com.xu_robert.template
 #
-# Maintained by: Robert Xu <rxu@lincomlinux.org>
+# Supported by: Robert Xu <rxu@lincomlinux.org>
+#
+# ### TEMPLATE ###
+# name: use the official name here.
+# download: this is a list of bukkit RBs.
+#    those RBs point to a version, and a direct link to the jar.
+# supported: if this file is actively supported by BUpdate maintainers (or contributors).
+# maintained: if this plugin is actively maintained for use.
 
 name: template
 download:
