@@ -1,7 +1,7 @@
 name: Dynmap
 version: 0.24
 download: "http://webbukkit.org/jenkins/builds/dynmap/2011-10-19_12-14-39/archive/org.dynmap/dynmap/0.24/dynmap-0.24.jar"
-supported: false
+supported: true
 maintained: true
 requires:
 extraversions:
