@@ -1,12 +1,9 @@
 name: template
 version: 1.0
 download: "http://www.example.com"
+rb: 1240
 supported: true
 maintained: true
-requires:
-    - {com.nijikokun.register.Register,1.5}
-extraversions:
-    version: 0.9
-      download: "http://www.example.org"
-    version: 0.1
-      download: "http://www.example.net"
+extrarbbuilds:
+    1185: {0.2,"http://www.example.net"}
+    1060: {0.1,"http://www.example.org"}
